@@ -1,0 +1,10 @@
+#Spotify Data Analysis Project 
+In this project my aim is to provide an exploratory analysis of my spotify user data using Python and SQL. 
+
+### Start
+Collecting data from Spotify. 
+Imported on Spotify as Json file. 
+Imported the dictionary for the Listening User History, once the dictionary was imported need to import data about unique songs -> so for each song in my listening history 
+I want information on the bands 
+on the genre etc. 
+
